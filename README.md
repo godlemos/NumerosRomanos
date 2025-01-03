@@ -36,4 +36,6 @@ La **Aplicación de Números Romanos** te permite convertir números arábigos (
 4. ¡Compila y ejecuta la aplicación! 📲
 
 ---
-![Captura de pantalla 2025-01-02 205925](https://github.com/user-attachments/assets/8f16c975-b147-41cc-947b-f88ac7eb504a) ![Captura de pantalla 2025-01-02 205254](https://github.com/user-attachments/assets/d472040a-bfd7-4c8d-9ba5-87110258c564)
+![Captura de pantalla 2025-01-02 205925](https://github.com/user-attachments/assets/8f16c975-b147-41cc-947b-f88ac7eb504a) 
+![Captura de pantalla 2025-01-02 205254](https://github.com/user-attachments/assets/9cd9297d-537a-462e-8e09-5515ec6a323a)
+
